@@ -1,0 +1,14 @@
+===================================================
+TAMPA, FL— Expressing concerns that he would have to say something soon, local man Alec Coles told reporters Friday he felt like his girlfriend hadn’t been putting any effort into his appearance lately. “Krista hasn’t bought a new dress shirt or pair of nice slacks for me in months,” said Coles, recalling how he was slightly embarrassed the other day when she let him leave the house in stained, baggy shorts and ahoodie. “She’s really letting me go—she totally dropped my skincare routine and hardly ever encourages me to exercise anymore. I ran out of shampoo last week, and she still hasn’t bought any for me. I can’t even remember the last time she reminded me to shower. I even smell bad. At the very least, she could shave me.” At press time, a frustrated Colesadded that while he will always love his girlfriend no matter what, it’s hard to keep the chemistry alive when he always looks like such shit.
+
+Sentiment(polarity=-0.08571770334928229, subjectivity=0.44471291866028717)
+===================================================
+Sentiment(polarity=-0.15, subjectivity=0.3)
+Sentiment(polarity=0.11117424242424243, subjectivity=0.49905303030303033)
+Sentiment(polarity=-0.030555555555555558, subjectivity=0.49722222222222223)
+Sentiment(polarity=0.0, subjectivity=0.06666666666666667)
+Sentiment(polarity=0.0, subjectivity=0.06666666666666667)
+Sentiment(polarity=-0.6999999999999998, subjectivity=0.6666666666666666)
+Sentiment(polarity=-0.14023809523809525, subjectivity=0.5088095238095238)
+
+Process finished with exit code 0

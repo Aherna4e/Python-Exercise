@@ -1,0 +1,17 @@
+Unsorted:
+deque([{'Name': 'Elizabeth', 'Phone': '867-232-1111'}, {'Name': 'Alyssa', 'Phone': '630-555-8445'}, {'Name': 'Bris', 'Phone': '123-333-4645'}, {'Name': 'Julia', 'Phone': '630-333-4445'}])
+
+Sorted:
+[{'Name': 'Alyssa', 'Phone': '630-555-8445'}, {'Name': 'Bris', 'Phone': '123-333-4645'}, {'Name': 'Elizabeth', 'Phone': '867-232-1111'}, {'Name': 'Julia', 'Phone': '630-333-4445'}]
+
+Popping. . . {'Name': 'Julia', 'Phone': '630-333-4445'}
+
+DISPLAYING LIST AFTER POP FUNCTION
+[{'Name': 'Alyssa', 'Phone': '630-555-8445'}, {'Name': 'Bris', 'Phone': '123-333-4645'}, {'Name': 'Elizabeth', 'Phone': '867-232-1111'}]
+
+POPPING ALL THE DATA
+Now Popping. . . {'Name': 'Elizabeth', 'Phone': '867-232-1111'}
+Now Popping. . . {'Name': 'Bris', 'Phone': '123-333-4645'}
+Now Popping. . . {'Name': 'Alyssa', 'Phone': '630-555-8445'}
+
+Process finished with exit code 0

@@ -1,0 +1,90 @@
+
+Shape: Cube
+Volume:  15
+None
+15
+===================
+
+Shape: Circle
+Area:  3.14
+None
+3.14
+===================
+
+Shape: Circle
+Area:  3.14
+None
+3.14
+===================
+
+Shape: Circle
+Area:  3.14
+None
+3.14
+===================
+
+Shape: Circle
+Area:  3.14
+None
+3.14
+===================
+
+Shape: Circle
+Area:  3.14
+None
+3.14
+===================
+
+Shape: Square
+Area:  4.6
+None
+4.6
+===================
+
+Shape: Square
+Area:  4.6
+None
+4.6
+===================
+
+Shape: Cube
+Volume:  15
+None
+15
+===================
+
+Shape: Cube
+Volume:  15
+None
+15
+===================
+
+Shape: Square
+Area:  4.6
+None
+4.6
+===================
+
+Shape: Cube
+Volume:  15
+None
+15
+===================
+
+Shape: Square
+Area:  4.6
+None
+4.6
+===================
+
+Shape: Square
+Area:  4.6
+None
+4.6
+===================
+
+Shape: Square
+Area:  4.6
+None
+4.6
+===================

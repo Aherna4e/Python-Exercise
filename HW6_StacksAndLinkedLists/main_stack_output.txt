@@ -1,0 +1,21 @@
+Unsorted: 
+[{'Name': 'Julia', 'Phone': '630-333-4445'}, {'Name': 'Allison', 'Phone': '847-999-2061'}, {'Name': 'Ophelia', 'Phone': '773-202-9999'}]
+
+Sorted: 
+[{'Name': 'Allison', 'Phone': '847-999-2061'}, {'Name': 'Julia', 'Phone': '630-333-4445'}, {'Name': 'Ophelia', 'Phone': '773-202-9999'}]
+
+New Phone Added....
+[{'Name': 'Allison', 'Phone': '847-999-2061'}, {'Name': 'Elizabeth', 'Phone': '867-232-1111'}, {'Name': 'Julia', 'Phone': '630-333-4445'}, {'Name': 'Ophelia', 'Phone': '773-202-9999'}]
+
+DEMONSTRATING POP FUNC
+{'Name': 'Ophelia', 'Phone': '773-202-9999'}
+
+DISPLAYING LIST AFTER POP FUNCTION
+[{'Name': 'Allison', 'Phone': '847-999-2061'}, {'Name': 'Elizabeth', 'Phone': '867-232-1111'}, {'Name': 'Julia', 'Phone': '630-333-4445'}]
+
+POPPING ALL THE DATA
+Now Popping. . . {'Name': 'Julia', 'Phone': '630-333-4445'}
+Now Popping. . . {'Name': 'Elizabeth', 'Phone': '867-232-1111'}
+Now Popping. . . {'Name': 'Allison', 'Phone': '847-999-2061'}
+
+Process finished with exit code 0

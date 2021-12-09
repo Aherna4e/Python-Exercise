@@ -1,0 +1,14 @@
+===================================================
+TAMPA, FL— Expressing concerns that he would have to say something soon, local man Alec Coles told reporters Friday he felt like his girlfriend hadn’t been putting any effort into his appearance lately. “Krista hasn’t bought a new dress shirt or pair of nice slacks for me in months,” said Coles, recalling how he was slightly embarrassed the other day when she let him leave the house in stained, baggy shorts and ahoodie. “She’s really letting me go—she totally dropped my skincare routine and hardly ever encourages me to exercise anymore. I ran out of shampoo last week, and she still hasn’t bought any for me. I can’t even remember the last time she reminded me to shower. I even smell bad. At the very least, she could shave me.” At press time, a frustrated Colesadded that while he will always love his girlfriend no matter what, it’s hard to keep the chemistry alive when he always looks like such shit.
+
+Sentiment(classification='pos', p_pos=0.9766018355016453, p_neg=0.023398164498366788)
+===================================================
+Sentiment(classification='pos', p_pos=0.8712410833059169, p_neg=0.12875891669408243)
+Sentiment(classification='pos', p_pos=0.804023079182239, p_neg=0.19597692081775736)
+Sentiment(classification='pos', p_pos=0.7332205996287751, p_neg=0.2667794003712273)
+Sentiment(classification='neg', p_pos=0.4774119604492193, p_neg=0.5225880395507796)
+Sentiment(classification='neg', p_pos=0.3336099249719802, p_neg=0.6663900750280188)
+Sentiment(classification='neg', p_pos=0.2119732465044624, p_neg=0.7880267534955372)
+Sentiment(classification='pos', p_pos=0.8771068207877101, p_neg=0.12289317921228866)
+
+Process finished with exit code 0
